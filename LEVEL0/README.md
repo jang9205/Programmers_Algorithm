@@ -1,6 +1,6 @@
 # 📖 Programmers_LEVEL0
 | 문제 | O/X | 날짜 |
-|:----------|:----------:|----------:|
+|:----------:|:----------:|:----------:|
 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | ✅ | 23.05.04 |
 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | ✅ | 23.05.04 |
 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | ✅ | 23.05.04 |
@@ -36,4 +36,9 @@
 | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | ✅ | 23.05.06 |
 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) | ✅ | 23.05.06 |
 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | ✅ | 23.05.06 |
-<!-- | []() | ✅ | 23.05.06 | -->
+| [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) | ✅ | 23.05.07 |
+| [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | ✅ | 23.05.07 |
+| [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | ✅ | 23.05.07 |
+| [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | ✅ | 23.05.07 |
+| [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | ✅ | 23.05.07 |
+<!-- | []() | ✅ | 23.05.07 | -->
