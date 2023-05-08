@@ -41,4 +41,9 @@
 | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | ✅ | 23.05.07 |
 | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | ✅ | 23.05.07 |
 | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | ✅ | 23.05.07 |
-<!-- | []() | ✅ | 23.05.07 | -->
+| [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | ✅ | 23.05.08 |
+| [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | ✅ | 23.05.08 |
+| [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | ✅ | 23.05.08 |
+| [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | ✅ | 23.05.08 |
+| [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | ✅ | 23.05.08 |
+<!-- | []() | ✅ | 23.05.08 | -->
