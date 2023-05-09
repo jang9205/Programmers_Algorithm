@@ -6,3 +6,5 @@ def solution(my_string):
         else:
             answer += i.lower()
     return answer
+
+# isupper, islower 함수 사용하면 간단

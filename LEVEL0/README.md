@@ -46,4 +46,10 @@
 | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | ✅ | 23.05.08 |
 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | ✅ | 23.05.08 |
 | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | ✅ | 23.05.08 |
-<!-- | []() | ✅ | 23.05.08 | -->
+| [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | ✅ | 23.05.09 |
+| [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | ✅ | 23.05.09 |
+| [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | ✅ | 23.05.09 |
+| [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | ✅ | 23.05.09 |
+| [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | ✅ | 23.05.09 |
+| [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | ✅ | 23.05.09 |
+<!-- | []() | ✅ | 23.05.09 | -->
