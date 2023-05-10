@@ -52,4 +52,8 @@
 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | ✅ | 23.05.09 |
 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | ✅ | 23.05.09 |
 | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | ✅ | 23.05.09 |
-<!-- | []() | ✅ | 23.05.09 | -->
+| [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | ✅ | 23.05.10 |
+| [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | ✅ | 23.05.10 |
+| [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | ✅ | 23.05.10 |
+| [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | ✅ | 23.05.10 |
+<!-- | []() | ✅ | 23.05.10 | -->
