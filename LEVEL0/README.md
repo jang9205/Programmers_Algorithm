@@ -56,4 +56,9 @@
 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | ✅ | 23.05.10 |
 | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | ✅ | 23.05.10 |
 | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | ✅ | 23.05.10 |
-<!-- | []() | ✅ | 23.05.10 | -->
+| [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | ✅ | 23.05.11 |
+| [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) | ✅ | 23.05.11 |
+| [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | ✅ | 23.05.11 |
+| [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | ✅ | 23.05.11 |
+| [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | ✅ | 23.05.11 |
+<!-- | []() | ✅ | 23.05.11 | -->
