@@ -61,4 +61,7 @@
 | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | ✅ | 23.05.11 |
 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | ✅ | 23.05.11 |
 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | ✅ | 23.05.11 |
-<!-- | []() | ✅ | 23.05.11 | -->
+| [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | ✅ | 23.05.12 |
+| [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | ✅ | 23.05.12 |
+| [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | ✅ | 23.05.12 |
+<!-- | []() | ✅ | 23.05.12 | -->
