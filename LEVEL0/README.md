@@ -64,4 +64,8 @@
 | [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | ✅ | 23.05.12 |
 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | ✅ | 23.05.12 |
 | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | ✅ | 23.05.12 |
-<!-- | []() | ✅ | 23.05.12 | -->
+| [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | ✅ | 23.05.12 |
+| [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887) | ✅ | 23.05.13 |
+| [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | ✅ | 23.05.13 |
+| [진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | ✅ | 23.05.13 |
+<!-- | []() | ✅ | 23.05.13 | -->
