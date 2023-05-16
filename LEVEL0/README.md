@@ -69,4 +69,7 @@
 | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | ✅ | 23.05.13 |
 | [진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | ✅ | 23.05.13 |
 | [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | ✅ | 23.05.14 |
-<!-- | []() | ✅ | 23.05.14 | -->
+| [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | ✅ | 23.05.14 |
+| [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | ✅ | 23.05.16 |
+| [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | ✅ | 23.05.16 |
+<!-- | []() | ✅ | 23.05.16 | -->
