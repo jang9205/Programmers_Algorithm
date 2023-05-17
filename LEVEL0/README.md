@@ -72,4 +72,8 @@
 | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | ✅ | 23.05.14 |
 | [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | ✅ | 23.05.16 |
 | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | ✅ | 23.05.16 |
-<!-- | []() | ✅ | 23.05.16 | -->
+| [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | ✅ | 23.05.17 |
+| [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | ✅ | 23.05.17 |
+| [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | ✅ | 23.05.17 |
+| [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | ✅ | 23.05.17 |
+<!-- | []() | ✅ | 23.05.17 | -->
