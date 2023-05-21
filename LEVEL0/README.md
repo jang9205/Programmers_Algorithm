@@ -89,4 +89,6 @@
 | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | ✅ | 23.05.20 |
 | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | ✅ | 23.05.20 |
 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | ✅ | 23.05.21 |
-<!-- | []() | ✅ | 23.05.21 | -->
+| [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | ✅ | 23.05.21 |
+| [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | ✅ | 23.05.22 |
+<!-- | []() | ✅ | 23.05.22 | -->
