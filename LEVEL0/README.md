@@ -76,4 +76,17 @@
 | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | ✅ | 23.05.17 |
 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | ✅ | 23.05.17 |
 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | ✅ | 23.05.17 |
-<!-- | []() | ✅ | 23.05.17 | -->
+| [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) | ✅ | 23.05.18 |
+| [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | ✅ | 23.05.18 |
+| [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | ✅ | 23.05.18 |
+| [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | ✅ | 23.05.18 |
+| [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | ✅ | 23.05.19 |
+| [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | ✅ | 23.05.19 |
+| [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | ✅ | 23.05.19 |
+| [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | ✅ | 23.05.20 |
+| [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | ✅ | 23.05.20 |
+| [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | ✅ | 23.05.20 |
+| [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | ✅ | 23.05.20 |
+| [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | ✅ | 23.05.20 |
+| [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | ✅ | 23.05.21 |
+<!-- | []() | ✅ | 23.05.21 | -->
