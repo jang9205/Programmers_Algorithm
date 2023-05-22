@@ -91,4 +91,6 @@
 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | ✅ | 23.05.21 |
 | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | ✅ | 23.05.21 |
 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | ✅ | 23.05.22 |
-<!-- | []() | ✅ | 23.05.22 | -->
+| [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | ✅ | 23.05.22 |
+| [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | ✅ | 23.05.22 |
+| []() | ✅ | 23.05.22 |
