@@ -93,4 +93,7 @@
 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | ✅ | 23.05.22 |
 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | ✅ | 23.05.22 |
 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | ✅ | 23.05.22 |
-| []() | ✅ | 23.05.22 |
+| [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | ✅ | 23.05.23 |
+| [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | ✅ | 23.05.23 |
+| [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | ✅ | 23.05.23 |
+<!-- | []() | ✅ | 23.05.23 | -->
