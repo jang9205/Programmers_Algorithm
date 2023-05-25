@@ -97,4 +97,6 @@
 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | ✅ | 23.05.23 |
 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | ✅ | 23.05.23 |
 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | ✅ | 23.05.23 |
-<!-- | []() | ✅ | 23.05.23 | -->
+| [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | ✅ | 23.05.25 |
+| [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | ✅ | 23.05.25 |
+<!-- | []() | ✅ | 23.05.25 | -->
