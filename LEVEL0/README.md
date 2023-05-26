@@ -99,4 +99,5 @@
 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | ✅ | 23.05.23 |
 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | ✅ | 23.05.25 |
 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | ✅ | 23.05.25 |
-<!-- | []() | ✅ | 23.05.25 | -->
+| [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | ✅ | 23.05.26 |
+<!-- | []() | ✅ | 23.05.26 | -->
