@@ -13,4 +13,9 @@
 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | ✅ | 23.05.28 |
 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | ✅ | 23.05.28 |
 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | ✅ | 23.05.28 |
-<!-- | []() | ✅ | 23.05.28 | -->
+| [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | ✅ | 23.05.29 |
+| [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | ✅ | 23.05.29 |
+| [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | ✅ | 23.05.29 |
+| [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | ✅ | 23.05.29 |
+| [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | ✅ | 23.05.29 |
+<!-- | []() | ✅ | 23.05.29 | -->
