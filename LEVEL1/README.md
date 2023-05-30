@@ -18,4 +18,5 @@
 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | ✅ | 23.05.29 |
 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | ✅ | 23.05.29 |
 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | ✅ | 23.05.29 |
-<!-- | []() | ✅ | 23.05.29 | -->
+| [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | ✅ | 23.05.30 |
+<!-- | []() | ✅ | 23.05.30 | -->
