@@ -21,4 +21,7 @@
 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | ✅ | 23.05.30 |
 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | ✅ | 23.05.31 |
 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | ✅ | 23.05.31 |
+| [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | ✅ | 23.05.31 |
+| [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | ✅ | 23.05.31 |
+| [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | ✅ | 23.05.31 |
 <!-- | []() | ✅ | 23.05.31 | -->
