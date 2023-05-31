@@ -19,4 +19,6 @@
 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | ✅ | 23.05.29 |
 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | ✅ | 23.05.29 |
 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | ✅ | 23.05.30 |
-<!-- | []() | ✅ | 23.05.30 | -->
+| [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | ✅ | 23.05.31 |
+| [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | ✅ | 23.05.31 |
+<!-- | []() | ✅ | 23.05.31 | -->
