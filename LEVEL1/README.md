@@ -26,4 +26,8 @@
 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | ✅ | 23.05.31 |
 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | ✅ | 23.06.01 |
 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | ✅ | 23.06.01 |
-<!-- | []() | ✅ | 23.06.01 | -->
+| [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | ✅ | 23.06.02 |
+| [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | ✅ | 23.06.02 |
+| [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | ✅ | 23.06.02 |
+| [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | ✅ | 23.06.02 |
+<!-- | []() | ✅ | 23.06.02 | -->
