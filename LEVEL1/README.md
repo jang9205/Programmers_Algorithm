@@ -30,4 +30,7 @@
 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | ✅ | 23.06.02 |
 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | ✅ | 23.06.02 |
 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | ✅ | 23.06.02 |
-<!-- | []() | ✅ | 23.06.02 | -->
+| [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | ✅ | 23.06.03 |
+| [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | ✅ | 23.06.03 |
+| [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | ✅ | 23.06.04 |
+<!-- | []() | ✅ | 23.06.04 | -->
