@@ -33,4 +33,5 @@
 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | ✅ | 23.06.03 |
 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | ✅ | 23.06.03 |
 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | ✅ | 23.06.04 |
-<!-- | []() | ✅ | 23.06.04 | -->
+| [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | ✅ | 23.06.05 |
+<!-- | []() | ✅ | 23.06.05 | -->
