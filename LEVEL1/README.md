@@ -36,4 +36,5 @@
 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | ✅ | 23.06.05 |
 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | ✅ | 23.06.06 |
 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | ✅ | 23.06.06 |
-<!-- | []() | ✅ | 23.06.06 | -->
+| [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | ✅ | 23.06.07 |
+<!-- | []() | ✅ | 23.06.07 | -->
