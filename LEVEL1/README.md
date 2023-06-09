@@ -38,4 +38,5 @@
 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | ✅ | 23.06.06 |
 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | ✅ | 23.06.07 |
 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | ✅ | 23.06.08 |
-<!-- | []() | ✅ | 23.06.08 | -->
+| [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | ✅ | 23.06.09 |
+<!-- | []() | ✅ | 23.06.09 | -->
