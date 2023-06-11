@@ -40,4 +40,5 @@
 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | ✅ | 23.06.08 |
 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | ✅ | 23.06.09 |
 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | ✅ | 23.06.10 |
-<!-- | []() | ✅ | 23.06.10 | -->
+| [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | ✅ | 23.06.11 |
+<!-- | []() | ✅ | 23.06.11 | -->
