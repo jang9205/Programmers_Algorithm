@@ -41,4 +41,5 @@
 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | ✅ | 23.06.09 |
 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | ✅ | 23.06.10 |
 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | ✅ | 23.06.11 |
-<!-- | []() | ✅ | 23.06.11 | -->
+| [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | ✅ | 23.06.12 |
+<!-- | []() | ✅ | 23.06.12 | -->
