@@ -43,4 +43,5 @@
 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | ✅ | 23.06.11 |
 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | ✅ | 23.06.12 |
 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | ✅ | 23.06.13 |
-<!-- | []() | ✅ | 23.06.13 | -->
+| [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | ✅ | 23.06.14 |
+<!-- | []() | ✅ | 23.06.14 | -->
