@@ -47,4 +47,5 @@
 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | ✅ | 23.06.16 |
 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | ✅ | 23.06.17 |
 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | ✅ | 23.06.18 |
-<!-- | []() | ✅ | 23.06.18 | -->
+| [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | ✅ | 23.06.19 |
+<!-- | []() | ✅ | 23.06.19 | -->
