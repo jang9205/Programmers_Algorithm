@@ -50,4 +50,5 @@
 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | ✅ | 23.06.19 |
 | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | ✅ | 23.06.20 |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | ✅ | 23.06.21 |
-<!-- | []() | ✅ | 23.06.21 | -->
+| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | ✅ | 23.06.22 |
+<!-- | []() | ✅ | 23.06.22 | -->
