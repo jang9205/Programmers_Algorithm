@@ -51,4 +51,5 @@
 | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | ✅ | 23.06.20 |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | ✅ | 23.06.21 |
 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | ✅ | 23.06.22 |
-<!-- | []() | ✅ | 23.06.22 | -->
+| [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | ✅ | 23.06.23 |
+<!-- | []() | ✅ | 23.06.23 | -->
