@@ -53,4 +53,5 @@
 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | ✅ | 23.06.22 |
 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | ✅ | 23.06.23 |
 | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | ✅ | 23.06.24 |
-<!-- | []() | ✅ | 23.06.24 | -->
+| [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | ✅ | 23.06.25 |
+<!-- | []() | ✅ | 23.06.25 | -->
