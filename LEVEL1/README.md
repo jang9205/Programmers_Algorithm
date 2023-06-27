@@ -55,4 +55,5 @@
 | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | ✅ | 23.06.24 |
 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | ✅ | 23.06.25 |
 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | ✅ | 23.06.26 |
-<!-- | []() | ✅ | 23.06.26 | -->
+| [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | ✅ | 23.06.28 |
+<!-- | []() | ✅ | 23.06.28 | -->
