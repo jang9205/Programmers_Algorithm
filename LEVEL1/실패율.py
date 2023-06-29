@@ -5,13 +5,12 @@ def solution(N, stages):
         for j in stages:
             if j >= i:
                 count += 1
-        percent.append(stages.count(i)/count)
-        
-    while len(result) < N:
-        for k, l in enumerate(percent):
-            if l == max(percent):
-                result.append(k + 1)
-                percent[k] = -1
-            if len(result) == N:
-                break
+        if count != 0:
+            percent.append(stages.count(i) / count)
+        else:
+            percent.append(0)
+    
+    for k in range(len(percent)):
+        result.append(percent.index(max(percent)) + 1)
+        percent[percent.index(max(percent))] = -1
     return result
