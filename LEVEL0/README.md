@@ -100,5 +100,5 @@
 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | ✅ | 23.05.25 |
 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | ✅ | 23.05.25 |
 | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | ✅ | 23.05.26 |
-| [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) |  | 23.06.15 |
+| [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | ✅ | 23.06.30 |
 <!-- | []() | ✅ | 23.06.15 | -->
