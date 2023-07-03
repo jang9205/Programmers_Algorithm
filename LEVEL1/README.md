@@ -58,4 +58,5 @@
 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | ✅ | 23.06.28 |
 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | ✅ | 23.06.29 |
 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | ✅ | 23.06.30 |
-<!-- | []() | ✅ | 23.06.30 | -->
+| [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | ✅ | 23.07.03 |
+<!-- | []() | ✅ | 23.07.03 | -->
