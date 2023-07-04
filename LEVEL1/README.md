@@ -59,4 +59,5 @@
 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | ✅ | 23.06.29 |
 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | ✅ | 23.06.30 |
 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | ✅ | 23.07.03 |
-<!-- | []() | ✅ | 23.07.03 | -->
+| [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | ✅ | 23.07.04 |
+<!-- | []() | ✅ | 23.07.04 | -->
