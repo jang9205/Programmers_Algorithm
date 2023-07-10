@@ -64,4 +64,5 @@
 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | ✅ | 23.07.06 |
 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | ✅ | 23.07.07 |
 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | ✅ | 23.07.08 |
-<!-- | []() | ✅ | 23.07.08 | -->
+| [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | ✅ | 23.07.10 |
+<!-- | []() | ✅ | 23.07.10 | -->
