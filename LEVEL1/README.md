@@ -66,4 +66,5 @@
 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | ✅ | 23.07.08 |
 | [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | ✅ | 23.07.10 |
 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | ✅ | 23.07.11 |
-<!-- | []() | ✅ | 23.07.11 | -->
+| [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | ✅ | 23.07.13 |
+<!-- | []() | ✅ | 23.07.13 | -->
