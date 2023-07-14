@@ -6,4 +6,5 @@
 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | ✅ | 23.07.02 |
 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | ✅ | 23.07.09 |
 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | ✅ | 23.07.12 |
-<!-- | []() | ✅ | 23.07.12 | -->
+| [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | ✅ | 23.07.14 |
+<!-- | []() | ✅ | 23.07.14 | -->
