@@ -9,4 +9,5 @@
 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | ✅ | 23.07.14 |
 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | ✅ | 23.07.15 |
 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | ✅ | 23.07.16 |
-<!-- | []() | ✅ | 23.07.16 | -->
+| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | ✅ | 23.07.17 |
+<!-- | []() | ✅ | 23.07.17 | -->
