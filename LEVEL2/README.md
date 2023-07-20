@@ -12,4 +12,5 @@
 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | ✅ | 23.07.17 |
 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | ✅ | 23.07.18 |
 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | ✅ | 23.07.19 |
-<!-- | []() | ✅ | 23.07.19 | -->
+| [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | ✅ | 23.07.20 |
+<!-- | []() | ✅ | 23.07.20 | -->
