@@ -67,4 +67,5 @@
 | [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | ✅ | 23.07.10 |
 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | ✅ | 23.07.11 |
 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | ✅ | 23.07.13 |
-<!-- | []() | ✅ | 23.07.13 | -->
+| [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | ✅ | 23.07.22 |
+<!-- | []() | ✅ | 23.07.22 | -->
