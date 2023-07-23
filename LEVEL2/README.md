@@ -14,4 +14,5 @@
 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | ✅ | 23.07.19 |
 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | ✅ | 23.07.20 |
 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | ✅ | 23.07.21 |
-<!-- | []() | ✅ | 23.07.21 | -->
+| [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | ✅ | 23.07.23 |
+<!-- | []() | ✅ | 23.07.23 | -->
