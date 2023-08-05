@@ -19,4 +19,5 @@
 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | ✅ | 23.07.30 |
 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | ✅ | 23.07.31 |
 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | ✅ | 23.08.04 |
-<!-- | []() | ✅ | 23.08.04 | -->
+| [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | ✅ | 23.08.05 |
+<!-- | []() | ✅ | 23.08.05 | -->
