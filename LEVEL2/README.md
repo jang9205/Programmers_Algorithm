@@ -22,4 +22,5 @@
 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | ✅ | 23.08.05 |
 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | ✅ | 23.08.06 |
 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | ✅ | 23.08.08 |
-<!-- | []() | ✅ | 23.08.08 | -->
+| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | ✅ | 23.08.09 |
+<!-- | []() | ✅ | 23.08.09 | -->
