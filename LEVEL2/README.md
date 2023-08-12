@@ -24,4 +24,5 @@
 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | ✅ | 23.08.08 |
 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | ✅ | 23.08.09 |
 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | ✅ | 23.08.10 |
-<!-- | []() | ✅ | 23.08.10 | -->
+| [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | ✅ | 23.08.12 |
+<!-- | []() | ✅ | 23.08.12 | -->
