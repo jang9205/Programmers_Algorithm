@@ -26,4 +26,5 @@
 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | ✅ | 23.08.10 |
 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | ✅ | 23.08.12 |
 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | ✅ | 23.08.13 |
-<!-- | []() | ✅ | 23.08.13 | -->
+| [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | ✅ | 23.08.15 |
+<!-- | []() | ✅ | 23.08.15 | -->
