@@ -27,4 +27,5 @@
 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | ✅ | 23.08.12 |
 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | ✅ | 23.08.13 |
 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | ✅ | 23.08.15 |
-<!-- | []() | ✅ | 23.08.15 | -->
+| [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | ✅ | 23.08.16 |
+<!-- | []() | ✅ | 23.08.16 | -->
