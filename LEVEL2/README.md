@@ -30,4 +30,5 @@
 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | ✅ | 23.08.16 |
 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | ✅ | 23.08.19 |
 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | ✅ | 23.08.25 |
-<!-- | []() | ✅ | 23.08.25 | -->
+| [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | ✅ | 23.08.30 |
+<!-- | []() | ✅ | 23.08.30 | -->
