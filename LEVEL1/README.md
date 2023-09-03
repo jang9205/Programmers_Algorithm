@@ -73,4 +73,5 @@
 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | ✅ | 23.07.29 |
 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | ✅ | 23.08.01 |
 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | ✅ | 23.08.03 |
-<!-- | []() | ✅ | 23.08.03 | -->
+| [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | ✅ | 23.09.03 |
+<!-- | []() | ✅ | 23.09.03 | -->
